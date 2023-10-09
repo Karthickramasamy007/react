@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'AIaaS'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_719FF0D9C9364BC49A8631D0D459ADD9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_76557DA5983D4047B7F99CFCA5116349 }}
           package: .
